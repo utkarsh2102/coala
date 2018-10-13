@@ -1,6 +1,7 @@
 {
   "name": "coala",
   "dependencies": {
-    "csslint": "~1"
+    "csslint": "~1",
+    "eslint": "^5.7.0"
   }
 }
